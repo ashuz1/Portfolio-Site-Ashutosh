@@ -1,0 +1,98 @@
+
+body{
+    background-image: linear-gradient(to top left , #110c52,rgb(0, 0, 0));
+}
+.main{
+    font-family: cursive;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+}
+.navBar{
+    padding-top: 150px;
+    height: auto;
+    width: 5%;
+    
+    background-color: #060635;
+}
+
+
+.texty{
+    word-spacing: normal;
+    height: auto;
+    width: 45%;
+    padding:5%;
+    text-align: left;
+    
+    color: aquamarine;
+    
+}
+.tdv{
+    height: auto;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+#tDi{
+    size: 100px;
+}
+#home{
+    color: aqua;
+}
+.fa-solid{
+    display: list-item;
+    color: aliceblue;
+    size: 2px;
+    padding: 10px;
+    size: 10px;
+}
+.fa-brands{
+    display: list-item;
+    color: aliceblue;
+    size: 2px;
+    padding: 10px;
+    size: 10px;
+}
+.fa-brands:hover{
+    color: aqua;
+}
+.fa-solid:hover{
+    color: aqua;
+}
+
+
+model-viewer{
+    padding: 6%;
+    width: 600px;
+    height: 400px;
+}
+#name{
+    color: rgb(0, 191, 255);
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+}
+#ashulogo{
+    height: 80px;
+    padding-right: 200px;
+    
+}
+#lg{
+    padding-bottom: 50px;
+    padding-left: 70%;
+    height: 10%;
+    *display: inline-block;
+    
+}
+#td{
+    height: 90%;
+    *display: inline-block;
+    vertical-align: top;
+}
+.buttons{
+    background-color: transparent;
+    border-color: transparent;
+}
